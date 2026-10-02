@@ -1,1 +1,1 @@
-bowtie2 input > output 
+bowtie2 -x input > output 
